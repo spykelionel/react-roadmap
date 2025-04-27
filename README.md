@@ -42,7 +42,6 @@ A comprehensive guide to take you from beginner to expert in React, using Vite f
 
 #### Tailwind & CSS Modules
 
-- **Article:** [Setup React and Tailwind CSS with Vite (freeCodeCamp)](https://www.freecodecamp.org/news/how-to-setup-react-and-tailwind-css-with-vite/)   
 - **Video:** [React Tailwind CSS Tutorial (Traversy Media)](https://www.youtube.com/watch?v=dFgzHOX84xQ) ([freecodecamp.org](https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/?utm_source=chatgpt.com))  
 - **Article:** [How to Use CSS Modules With React (LambdaTest)](https://www.lambdatest.com/blog/css-modules-react/) ([facebook.com](https://www.facebook.com/p/Reactjs-News-Tutorials-100048405236733/?utm_source=chatgpt.com))  
 - **Video:** [CSS Modules in React – Crash Course (Fireship)](https://www.youtube.com/watch?v=RiOTL0vK3dg) ([github.com](https://github.com/SujalN/SmartphoneQuiz?utm_source=chatgpt.com))
