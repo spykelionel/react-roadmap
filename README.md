@@ -16,14 +16,10 @@ A comprehensive guide to take you from beginner to expert in React, using Vite f
 
 ### Environment Setup with Vite
 
-- **Article:** [How to Install React with Vite (freeCodeCamp)](https://www.freecodecamp.org/news/how-to-set-up-react-with-vite/)  
-- **Article:** [Vite + React: A Beginner’s Guide (Medium)](https://medium.com/itsallcode/vite-react-setup-guide)  
-- **Video:** [Use Vite to Speed Up Web Development (freeCodeCamp)](https://www.youtube.com/watch?v=MFuwkrseXVE)  
-- **Video:** [React + Vite Setup Tutorial (Fireship)](https://www.youtube.com/watch?v=keA20NefG3I)
+- **Article:** [How to Install React with Vite ](https://vite.dev/guide/)
 
 ### Core React Concepts
-
-- **Article:** [Learn React – A Handbook for Beginners (freeCodeCamp)](https://www.freecodecamp.org/news/react-handbook/)  
+ 
 - **Video:** [Learn React JS – Full Beginner’s Tutorial (freeCodeCamp)](https://www.youtube.com/watch?v=DLX62G4lc44)  
 - **Video:** [React JS Crash Course for Beginners (Programming with Mosh)](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
